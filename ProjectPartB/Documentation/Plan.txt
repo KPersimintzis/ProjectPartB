@@ -1,0 +1,14 @@
+﻿Sql -> Get All Data (Data Connection)
+		CRUD (Data Managment)
+			Input-Check(Create-Update of Data and Checking)
+
+C# -> Entities: Course
+		Trainer
+		Student
+		Assignment
+			Entitie-Features:Type,Stream for Course
+					 Subject for Trainer
+
+C# -> Services: For all Entities connection with sql and creation/edit of lists
+
+   -> ViewModels: Display of the entities
